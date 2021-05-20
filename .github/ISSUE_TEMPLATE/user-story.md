@@ -2,7 +2,7 @@
 name: User Story
 about: Ваша идеальная user story должна выглядеть так
 title: User Story
-labels: ТРПО
+labels: User Story
 assignees: SemenBukharin
 
 ---
